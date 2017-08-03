@@ -11,6 +11,6 @@
  >
   Так, картинка 
   
-  ![](http://img.wennermedia.com/article-leads-horizontal/rs-233078-sex-pistols.jpg)
+  ![sex pistols](http://img.wennermedia.com/article-leads-horizontal/rs-233078-sex-pistols.jpg)
   
    [Ссылка:)](https://www.youtube.com/watch?v=hybDCfqas3w&t=86s)
